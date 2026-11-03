@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.neissa.twa",
+        "sha256_cert_fingerprints": ["44:27:AC:66:E7:DF:6E:BF:E3:4F:99:5F:AE:E4:AE:82:BE:7F:C6:C0:7A:5B:52:70:81:D2:67:CF:27:1B:81:AF"]
+      }
+    }]
